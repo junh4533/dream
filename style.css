@@ -3,6 +3,11 @@ body{
     background-color:#e5ccff;
     color:purple;
     font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
+    border-width:5px;	
+    border-style:inset;
+    position:relative;
+    border-color:purple;
+    margin:30px;
 }
 
 #title{
