@@ -1,13 +1,7 @@
 body{
     text-align:center;
     background-color:#e5ccff;
+    color:purple;
+    font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
 }
-#text{
-  text-align:center;
-  color:purple;
-  font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
-}
-p{
- font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
- color:purple;
-}
+
