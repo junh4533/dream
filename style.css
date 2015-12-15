@@ -1,26 +1,29 @@
-body{
-    text-align:center;
-    background-color:#e5ccff;
-    color:purple;
+body {
+    text-align: center;
+    background-color: #e5ccff;
+    color: purple;
     font-family: 'Open Sans', 'Droid Sans', Arial, sans-serif;
-    border-width:5px;	
-    border-style:inset;
-    position:relative;
-    border-color:purple;
-    margin:30px;
-    background-image:url(Purple_Space_Background_by_YuniNaoki.jpg);
-
+    border-width: 5px;
+    border-style: inset;
+    position: relative;
+    border-color: purple;
+    margin: 30px;
+    background-image: url(Purple_Space_Background_by_YuniNaoki.jpg);
     background-size: 250%;
     background-repeat: no-repeat;
-
     text-shadow: 3.5px 3.5px black;
-
-
-#title{
-    font-size:50px;
-    font-family: 'Libre Baskerville', serif;
-    text-shadow: 15px 8px black;
+}
+    #title {
+        font-size: 50px;
+        font-family: 'Libre Baskerville', serif;
+        text-shadow: 15px 8px black;
     }
-.phrase{
-    text-shadow: 10px 8px black;
+    #text{
+        text-shadow: 10px 8px black;
+    }
+    .phrase {
+        text-shadow: 10px 8px black;
+    }
+p{
+    text-shadow: 3px 3px black;
 }
