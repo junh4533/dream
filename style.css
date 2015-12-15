@@ -9,7 +9,8 @@ body{
     border-color:purple;
     margin:30px;
     background-image:url(Purple_Space_Background_by_YuniNaoki.jpg);
-  
+    background-size: 250%;
+    background-repeat: no-repeat;
 }
 
 #title{
