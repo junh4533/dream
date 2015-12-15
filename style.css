@@ -13,19 +13,21 @@ body {
     background-repeat: no-repeat;
     text-shadow: 3.5px 3.5px black;
 }
-    #title {
-        font-size: 50px;
-        font-family: 'Libre Baskerville', serif;
-        text-shadow: 2px 2px #4F4275;
-    }
-    #text{
-        text-shadow: 10px 8px black;
-    }
-    .phrase {
-        text-shadow: 10px 8px black;
-    }
-p{
-    text-shadow: 5px 5px black;
+
+#title {
+    font-size: 50px;
+    font-family: 'Libre Baskerville', serif;
+    text-shadow: 2px 2px #4F4275;
 }
 
+#text {
+    text-shadow: 10px 8px black;
+}
 
+.phrase {
+    text-shadow: 10px 8px black;
+}
+
+p {
+    text-shadow: 5px 5px black;
+}
