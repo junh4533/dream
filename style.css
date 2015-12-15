@@ -8,7 +8,7 @@ body {
     position: relative;
     border-color: purple;
     margin: 30px;
-    background-image: url(Purple_Space_Background_by_YuniNaoki.jpg);
+    background-image: url(purpleSpace.jpg);
     background-size: 250%;
     background-repeat: no-repeat;
     text-shadow: 3.5px 3.5px black;
@@ -27,3 +27,5 @@ body {
 p{
     text-shadow: 5px 5px black;
 }
+
+
