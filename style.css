@@ -31,3 +31,15 @@ body {
 p {
     text-shadow: 5px 5px black;
 }
+#cloud1{
+    float:right;
+    margin:50px;
+}
+#cloud2{
+     float:left;
+     margin:50px;
+}
+#pic{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
